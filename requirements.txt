@@ -1,0 +1,2 @@
+# Add dependencies here, e.g.:
+fastapi[standard]
